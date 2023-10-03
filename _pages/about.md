@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "Xie Zhongyi Personal Website"
+title: "Xie Zhongyi's Personal Website"
 name: "Xie Zhongyi"
+avatar: "CV照.jpg"
 author_profile: true
 redirect_from: 
   - /about/
