@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-name: ""
+title: "Xie Zhongyi Personal Website"
+name: "Xie Zhongyi"
 author_profile: true
 redirect_from: 
   - /about/
